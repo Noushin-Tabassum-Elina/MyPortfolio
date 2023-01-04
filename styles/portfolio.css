@@ -23,6 +23,7 @@ background: #FD6E0A;
     background-image: url(../images/header_bg.png),url(../images/developer.png);
     background-repeat: no-repeat;
     background-position: bottom right, left;
+    background-size: 800px, 75px;
 }
 
 /* header and navigation style */
